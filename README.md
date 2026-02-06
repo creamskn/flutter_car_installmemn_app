@@ -3,14 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
+<img width="300" alt="localhost_61283_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/6a8d189f-9b5a-4593-ae9b-f4a66052e89d" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" alt="localhost_61283_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/c076447a-3b8d-4852-a12c-63dc89beb750" />
